@@ -1,0 +1,68 @@
+Protel Design System Design Rule Check
+PCB File : D:\WorkSpace\Altium Designer\Brain Sensor V3.0\ArrowMasterBoard\ArrowMasterBoard.PcbDoc
+Date     : 2015/10/7
+Time     : 22:32:12
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=0.762mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Rule
+Rule Violations :0
+
+Processing Rule : Room U_ads1299 (Bounding Region = (99.67mm, 66.548mm, 116.789mm, 109.728mm) (InComponentClass('U_ads1299'))
+Rule Violations :0
+
+Processing Rule : Room U_BlueTooth (Bounding Region = (25.476mm, 37.795mm, 69.088mm, 54.661mm) (InComponentClass('U_BlueTooth'))
+Rule Violations :0
+
+Processing Rule : Room U_Fuel Gauge (Bounding Region = (40.742mm, 110.871mm, 53.137mm, 128.118mm) (InComponentClass('U_Fuel Gauge'))
+Rule Violations :0
+
+Processing Rule : Room U_MCU (Bounding Region = (69.088mm, 37.668mm, 116.815mm, 69.977mm) (InComponentClass('U_MCU'))
+Rule Violations :0
+
+Processing Rule : Room U_mpu9250 (Bounding Region = (97.409mm, 112.471mm, 116.815mm, 128.397mm) (InComponentClass('U_mpu9250'))
+Rule Violations :0
+
+Processing Rule : Room U_PowerSupply (Bounding Region = (53.137mm, 110.896mm, 63.271mm, 129.548mm) (InComponentClass('U_PowerSupply'))
+Rule Violations :0
+
+Processing Rule : Room U_SDCard (Bounding Region = (64.592mm, 110.896mm, 97.409mm, 128.346mm) (InComponentClass('U_SDCard'))
+Rule Violations :0
+
+Processing Rule : Room U_Sharp96Lcd (Bounding Region = (69.088mm, 69.977mm, 99.67mm, 107.721mm) (InComponentClass('U_Sharp96Lcd'))
+Rule Violations :0
+
+Processing Rule : Room U_Wireless Battery Charger (Bounding Region = (25.4mm, 110.871mm, 43.205mm, 128.397mm) (InComponentClass('U_Wireless Battery Charger'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:02

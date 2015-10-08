@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCCSD Pin=R23-1
+Removed Pin From Net: NetName=P7.5 Pin=R23-2
+Added Pin To Net: NetName=P7.5 Pin=R23-1
+Added Pin To Net: NetName=VCCSD Pin=R23-2

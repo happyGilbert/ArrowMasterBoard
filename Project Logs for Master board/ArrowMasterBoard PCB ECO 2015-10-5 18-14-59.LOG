@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetC18_2 New Net Name=VDD
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=AIN0
+Change Net Name : Old Net Name=NetJ1_7 New Net Name=VPROG
+Change Net Name : Old Net Name=NetJ1_8 New Net Name=VOUT
+Change Net Name : Old Net Name=NetJ1_9 New Net Name=VIN

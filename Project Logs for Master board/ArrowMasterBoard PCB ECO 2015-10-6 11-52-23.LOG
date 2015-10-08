@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VBAT+ Pin=s3-2
+Removed Pin From Net: NetName=VCC3V7 Pin=s3-3
+Added Pin To Net: NetName=VBAT+ Pin=s3-1
+Added Pin To Net: NetName=VCC3V7 Pin=s3-2
+Added Pin To Net: NetName=GND Pin=s3-3

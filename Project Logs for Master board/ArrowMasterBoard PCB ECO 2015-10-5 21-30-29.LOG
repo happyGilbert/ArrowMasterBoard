@@ -1,0 +1,4 @@
+Added Component: Designator=R28(R0402)
+Added Pin To Net: NetName=VPROG Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Member To Class: ClassName=U_Fuel Gauge Member=Component R28 Register
